@@ -116,7 +116,7 @@ En plus des `scénarios`_ de base, une fonctionnalité peut contenir des
 Scénarios
 ---------
 
-Le Scénario est une des structures à la base de Gherkin. Chaque schénario
+Le Scénario est une des structures à la base de Gherkin. Chaque scénario
 démarre avec le mot-clef ``Scénario`` (ou sa traduction), suivi par un titre de
 scénario optionnel. Chaque fonctionnalité peut être composée de un ou de
 plusieurs scénarios, et chaque scénario consiste en une ou plusieurs
